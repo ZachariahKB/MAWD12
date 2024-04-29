@@ -1,5 +1,17 @@
 {
   "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+    "i": "^0.3.7",
+    "inquirer": "^8.2.4",
+    "pg": "^8.11.5"
+  },
+  "name": "project",
+  "version": "1.0.0",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
