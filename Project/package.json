@@ -2,6 +2,7 @@
   "dependencies": {
     "i": "^0.3.7",
     "inquirer": "^8.2.4",
+    "mysql2": "^3.9.7",
     "pg": "^8.11.5"
   },
   "name": "project",
